@@ -1,12 +1,11 @@
-Simple MySQL testbox with
+# Simple MySQL testbox with
 
 * Percona-server 5.5
 * Percona-Toolkit
 * SysBench 0.5
 * sbtest.sh (/usr/local/bin/sbtest.sh - preconfigured sysbench test script)
 
-What you need
-==============
+## What you need
   - Vagrant
   - Ansible 
 

@@ -20,7 +20,7 @@ git clone https://github.com/mszel-blackbirdit/vagrant
 
 then run the following 
 ```
-cd vagrantest/RainGauge-Ansible-Demo/
+cd vagrant/RainGauge-Ansible-Demo/
 vagrant up
 ansible-playbook site.yml -i hosts
 ````

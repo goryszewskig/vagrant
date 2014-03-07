@@ -15,7 +15,7 @@ what you need
 
 install the code:
 ```bash
-git clone https://github.com/milos42/vagranttest
+git clone https://github.com/mszel-blackbirdit/vagrant
 ```
 
 then run the following 
